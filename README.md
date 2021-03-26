@@ -16,6 +16,6 @@ Have you ever wondered what that obscure-sounding ingredient is on that pack of 
 
 ## Tech Stack
 - React Native
-- Backend (?)
+- Firebase
 - [Google Cloud Visions' Optical Character Recongition (OCR)](https://cloud.google.com/vision/docs/ocr)
 - API? Web-scraper?
