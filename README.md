@@ -14,6 +14,7 @@ Have you ever wondered what that obscure-sounding ingredient is on that pack of 
 - Display tags for each ingredient
 - Save and name ingredients lists
 - App Tutorials: how to use the app
+- Manually enter (type) in ingredients list
 
 ## Tech Stack
 - React Native
