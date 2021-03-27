@@ -13,6 +13,7 @@ Have you ever wondered what that obscure-sounding ingredient is on that pack of 
 ## Features To Consider
 - Display tags for each ingredient
 - Save and name ingredients lists
+- App Tutorials: how to use the app
 
 ## Tech Stack
 - React Native
