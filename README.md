@@ -3,6 +3,8 @@ Dig into the nitty gritty details of what's in that suspiciously long ingredient
 
 Have you ever wondered what that obscure-sounding ingredient is on that pack of instant ramen? IN-gredients is a mobile app that will help you answer those burning questions. All you need to do is snap or choose a picture from your camera roll, upload it, and get information about each ingredient! 
 
+[Mockup & Prototype](https://xd.adobe.com/view/d78098c5-163d-4829-b8f9-8243e9cf36d1-82d3/)
+
 ## Features
 - Manually enter (type) in ingredients list
 - Take a picture within the app
